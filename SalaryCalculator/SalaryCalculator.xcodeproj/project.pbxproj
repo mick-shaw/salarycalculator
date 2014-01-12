@@ -21,6 +21,7 @@
 		9F4B52A118826E78004816A0 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9F4B528318826E78004816A0 /* UIKit.framework */; };
 		9F4B52A918826E78004816A0 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 9F4B52A718826E78004816A0 /* InfoPlist.strings */; };
 		9F4B52AB18826E79004816A0 /* SalaryCalculatorTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 9F4B52AA18826E79004816A0 /* SalaryCalculatorTests.m */; };
+		9FA1823A188279A2007C41B8 /* MessageUI.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 9FA18239188279A2007C41B8 /* MessageUI.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,7 +35,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		9F4B527C18826E78004816A0 /* SalaryCalculator.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SalaryCalculator.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		9F4B527C18826E78004816A0 /* PIC Rates.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "PIC Rates.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		9F4B527F18826E78004816A0 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		9F4B528118826E78004816A0 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		9F4B528318826E78004816A0 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
@@ -53,6 +54,7 @@
 		9F4B52A618826E78004816A0 /* SalaryCalculatorTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "SalaryCalculatorTests-Info.plist"; sourceTree = "<group>"; };
 		9F4B52A818826E78004816A0 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		9F4B52AA18826E79004816A0 /* SalaryCalculatorTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SalaryCalculatorTests.m; sourceTree = "<group>"; };
+		9FA18239188279A2007C41B8 /* MessageUI.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = MessageUI.framework; path = System/Library/Frameworks/MessageUI.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9FA1823A188279A2007C41B8 /* MessageUI.framework in Frameworks */,
 				9F4B528218826E78004816A0 /* CoreGraphics.framework in Frameworks */,
 				9F4B528418826E78004816A0 /* UIKit.framework in Frameworks */,
 				9F4B528018826E78004816A0 /* Foundation.framework in Frameworks */,
@@ -92,7 +95,7 @@
 		9F4B527D18826E78004816A0 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				9F4B527C18826E78004816A0 /* SalaryCalculator.app */,
+				9F4B527C18826E78004816A0 /* PIC Rates.app */,
 				9F4B529D18826E78004816A0 /* SalaryCalculatorTests.xctest */,
 			);
 			name = Products;
@@ -101,6 +104,7 @@
 		9F4B527E18826E78004816A0 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
+				9FA18239188279A2007C41B8 /* MessageUI.framework */,
 				9F4B527F18826E78004816A0 /* Foundation.framework */,
 				9F4B528118826E78004816A0 /* CoreGraphics.framework */,
 				9F4B528318826E78004816A0 /* UIKit.framework */,
@@ -169,7 +173,7 @@
 			);
 			name = SalaryCalculator;
 			productName = SalaryCalculator;
-			productReference = 9F4B527C18826E78004816A0 /* SalaryCalculator.app */;
+			productReference = 9F4B527C18826E78004816A0 /* PIC Rates.app */;
 			productType = "com.apple.product-type.application";
 		};
 		9F4B529C18826E78004816A0 /* SalaryCalculatorTests */ = {
@@ -381,7 +385,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "SalaryCalculator/SalaryCalculator-Prefix.pch";
 				INFOPLIST_FILE = "SalaryCalculator/SalaryCalculator-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "PIC Rates";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -394,7 +398,7 @@
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "SalaryCalculator/SalaryCalculator-Prefix.pch";
 				INFOPLIST_FILE = "SalaryCalculator/SalaryCalculator-Info.plist";
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = "PIC Rates";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -460,6 +464,7 @@
 				9F4B52B018826E79004816A0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		9F4B52B118826E79004816A0 /* Build configuration list for PBXNativeTarget "SalaryCalculatorTests" */ = {
 			isa = XCConfigurationList;
@@ -468,6 +473,7 @@
 				9F4B52B318826E79004816A0 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

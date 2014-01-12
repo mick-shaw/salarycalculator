@@ -5,7 +5,7 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>30D362F4-8A29-45F3-9315-373F01D003F7</string>
+	<string>FE7EBE1F-9A1F-4E6B-8FF5-034106CAC58C</string>
 	<key>IDESourceControlProjectName</key>
 	<string>SalaryCalculator</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
@@ -34,7 +34,7 @@
 			<key>IDESourceControlWCCIdentifierKey</key>
 			<string>799257EA-D54B-4B6D-8947-E58EE530211D</string>
 			<key>IDESourceControlWCCName</key>
-			<string>salarycalculator</string>
+			<string>SalaryCalculator</string>
 		</dict>
 	</array>
 </dict>

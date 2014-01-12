@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "9F4B527B18826E78004816A0"
-               BuildableName = "SalaryCalculator.app"
+               BuildableName = "PIC Rates.app"
                BlueprintName = "SalaryCalculator"
                ReferencedContainer = "container:SalaryCalculator.xcodeproj">
             </BuildableReference>
@@ -43,7 +43,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9F4B527B18826E78004816A0"
-            BuildableName = "SalaryCalculator.app"
+            BuildableName = "PIC Rates.app"
             BlueprintName = "SalaryCalculator"
             ReferencedContainer = "container:SalaryCalculator.xcodeproj">
          </BuildableReference>
@@ -62,7 +62,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9F4B527B18826E78004816A0"
-            BuildableName = "SalaryCalculator.app"
+            BuildableName = "PIC Rates.app"
             BlueprintName = "SalaryCalculator"
             ReferencedContainer = "container:SalaryCalculator.xcodeproj">
          </BuildableReference>
@@ -80,7 +80,7 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "9F4B527B18826E78004816A0"
-            BuildableName = "SalaryCalculator.app"
+            BuildableName = "PIC Rates.app"
             BlueprintName = "SalaryCalculator"
             ReferencedContainer = "container:SalaryCalculator.xcodeproj">
          </BuildableReference>
