@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>30D362F4-8A29-45F3-9315-373F01D003F7</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SalaryCalculator</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>799257EA-D54B-4B6D-8947-E58EE530211D</key>
+		<string>https://github.com/mick-shaw/salarycalculator.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SalaryCalculator/SalaryCalculator.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>799257EA-D54B-4B6D-8947-E58EE530211D</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/mick-shaw/salarycalculator.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>799257EA-D54B-4B6D-8947-E58EE530211D</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>799257EA-D54B-4B6D-8947-E58EE530211D</string>
+			<key>IDESourceControlWCCName</key>
+			<string>salarycalculator</string>
+		</dict>
+	</array>
+</dict>
+</plist>
